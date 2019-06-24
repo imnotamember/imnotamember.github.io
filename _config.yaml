@@ -31,32 +31,33 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: imnotawebsite
-subtitle: Consolidating science, programming, and Oxford commas into one convenient website.
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a place for me to store and document my progress through the wonderful world of programming and scientific research.
-  It also will supply information on my work as a graduate student in the PhD program at the University of Nebraska -- Lincoln. I am in the Psychology-Neuroscience and Behavior program.
-author: Joshua E. Zosky
+subtitle: "Consolidating science, programming, and Oxford commas into one convenient website."
+#description: >- # this means to ignore newlines until "baseurl:"
+#  This is a place for me to store and document my progress through the wonderful world of programming and scientific research.
+#  It also will supply information on my work as a graduate student in the PhD program at the University of Nebraska -- Lincoln. I am in the Psychology-Neuroscience and Behavior program.
+description: "This is a place for me to store and document my progress through the wonderful world of programming and scientific research. It also will supply information on my work as a graduate student in the PhD program at the University of Nebraska -- Lincoln. I am in the Psychology-Neuroscience and Behavior program."
+author: "Joshua E. Zosky"
 email: joshua.e.zosky@gmail.com
 avatar: images/drBoxhead.png
 
 # You'll want to customize url and baseurl for your own site:
 # baseurl: / # the subpath of your site, e.g. /blog
-url: https://imnotamember.github.io # the base hostname & protocol for your site
+url: "https://imnotamember.github.io" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url: https://twitter.com/joshua_e_zosky
-facebook_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-github_url: https://github.com/imnotamember
-pinterest_url:
-slack_url:
-dribbble_url:
+twitter_url: "https://twitter.com/joshua_e_zosky"
+# facebook_url:
+# googleplus_url:
+# instagram_url:
+# linkedin_url:
+github_url: "https://github.com/imnotamember"
+# pinterest_url:
+# slack_url:
+# dribbble_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+# google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
