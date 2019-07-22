@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prologue - Jekyll Theme
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
@@ -137,3 +138,9 @@ Credits:
 		jquery.scrollzer (@ajlkn)
 		Skel (skel.io)
 ```
+=======
+# imnotamember.github.io
+My GitHub Based Website
+
+Not sure what to do with this yet.
+>>>>>>> d0aabcd3c3238731f7a6333d51e7e22cba09b96b
