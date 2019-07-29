@@ -62,3 +62,7 @@ github_url: https://imnotamember.github.io
 # theme: jekyll-theme-prologue
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
