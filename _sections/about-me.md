@@ -9,4 +9,4 @@ This is a place for me to store and document my progress through the wonderful w
 
 It also will supply information on my work as a graduate student in the PhD program at the University of Nebraska -- Lincoln. I am in the Psychology-Neuroscience and Behavior program.
 
-If you have questions/ideas/collaborations, feel free to email me at [joshua.e.zosky@gmail.com](mailto:joshua.e.zosky@gmail.com) or fill out the form below in [Contact](Contact). 
+If you have questions/ideas/collaborations, feel free to email me at [joshua.e.zosky@gmail.com](mailto:joshua.e.zosky@gmail.com) or fill out the form below in [Contact](#Contact). 
