@@ -2,8 +2,10 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# ![Dr. Boxhead](assets/images/drBoxhead.png)
 layout: home
-title: My Great Homepage
+title: im.Not.A.Home.Page
 icon: fa-home
 order: 1
 ---
+

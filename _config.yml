@@ -34,9 +34,10 @@ title: "Imnotamember's Homepage"
 subtitle: Stuff, things, pizza.
 description: >- # this means to ignore newlines until "baseurl:"
   This is my collection of learnings. Hope you like learnings.
-author: Imnotamember
+author: imnotamember
 email: joshua.e.zosky@gmail.com
-avatar: assets/images/avatar.jpg
+avatar_bg: assets/images/avatar.jpg
+avatar_fg: assets/images/drBoxhead.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
