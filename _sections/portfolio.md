@@ -32,10 +32,10 @@ At minimum it's tolerable. Click and explore.
       <header><h3>Poster Presentations
     </h3></header></div>
     <div class="item">
-      <a href="" class="image fit">
+      <a href="http://imnotamember.github.io/Programming-Workshop/" class="image fit">
         <img src="assets/images/pic05.jpg" alt="asdf" />
       </a>
-      <header><h3>Natoque Vitae
+      <header><h3>Intro to Programming in Psychology - workshop materials
     </h3></header></div>
   </div>
   <div class="4u 12u$(mobile)">
@@ -48,10 +48,12 @@ At minimum it's tolerable. Click and explore.
       </header>
     </div>
     <div class="item">
-      <a href="#" class="image fit">
+      <a href="http://imnotamember.github.io/FaceReader-PythonBindings/" class="image fit">
         <img src="assets/images/pic07.jpg" alt="Orci Convallis" />
-      </a>
-      <header><h3>Some words
-    </h3></header></div>
+          <header>
+              <h3>FaceReader bindings for Python</h3>
+          </header>
+        </a>
+      </div>
   </div>
 </div>
