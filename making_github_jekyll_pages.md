@@ -63,9 +63,3 @@ order: 6
 ## Invaluable resources:
 1. [GitHub guide to creating GitHub Pages with Jekyll](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages)
 1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/joshua-zosky?background_color=edeae9&primary_color=719989', text: 'Questions? Schedule time with me to chat one-on-one!', color: '#719989', textColor: '#edeae9', branding: true });</script>
-<!-- Calendly badge widget end -->
