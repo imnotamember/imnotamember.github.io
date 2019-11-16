@@ -14,6 +14,8 @@ Welcome to the landing page for more info on presentations regarding the Z-Box I
 
 _All Videos Originally Created by Joshua Zosky, see license information [at end of this page](#license)._
 
+----
+****
 
 ### Posters
 #### Psychonomics Annual Meeting - November, 2019
@@ -24,12 +26,19 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 [![poster 2][poster2]](https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20VSS.pdf)
 
 ### Videos
+
+----
+****
+
 #### Test yourself!
 Can you determine the orb's direction? 
 Based on your perception of which side is the orb's front, each presentation could be spinning either left or right. For presentations with the box, is this motion the same (congruent) between objects or different (incongruent)?
 
 [Z-Box Illusion Self-Test Demo](https://unl.box.com/v/Z-Box-Illusion)
 {% include box_video_player.html id=page.video_demo %}
+
+----
+****
 
 #### Other sample videos
 
@@ -53,19 +62,6 @@ Thanks!
 ****
 
 If videos don't load, click the title to view on a new page.
-
-----
-****
-
-#### [Illusion of the Year Submission](https://unl.box.com/s/xwo1nn8fqsy1dvbozvrozy5cizs3rxu4)
-
-{% include box_video_player.html id=page.box_video_1 %}
-
-----
-
-#### [Wu-Tang Clan in the Z-Box](https://unl.box.com/s/tabkmtl5cty5bmgtv5u5i04e8per0450)
-
-{% include box_video_player.html id=page.box_video_3 %}
 
 ----
 ****
