@@ -5,6 +5,7 @@ permalink: "/Z-Box-Presentation/"
 subtitle: "Welcome to the resources page for presentations on the Z-Box Illusion"
 icon: fa-book
 order: 5
+video_demo: Z-Box-Illusion
 ---
 
 # Z-Box-Presentation
@@ -17,14 +18,20 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 ### Posters
 #### Psychonomics Annual Meeting - November, 2019
 [Z-Box Poster - VSS.pdf](https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20Psychonomics.pdf)
+[![poster 1][poster1]](https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20Psychonomics.pdf)
 #### Vision Sciences Society Annual Meeting - May, 2019
 [Z-Box Poster - VSS.pdf](https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20VSS.pdf)
+[![poster 2][poster2]](https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20VSS.pdf)
 
 ### Videos
 #### Test yourself!
 Can you determine the orb's direction? 
 Based on your perception of which side is the orb's front, each presentation could be spinning either left or right. For presentations with the box, is this motion the same (congruent) between objects or different (incongruent)?
-[Z-Box Illusion Self-Test Demo](https://unl.box.com/s/i5bh78ymu636m9yykkzwgxtqjzfyg8j8)
+
+[Z-Box Illusion Self-Test Demo](https://unl.box.com/v/Z-Box-Illusion)
+{% include box_video_player.html id=page.video_demo %}
+
+#### Other sample videos
 
 [Orb - 100 Particles - Leftward Motion](https://unl.box.com/s/i5bh78ymu636m9yykkzwgxtqjzfyg8j8)
 
@@ -70,3 +77,6 @@ If videos don't load, click the title to view on a new page.
 <br />
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/MovingImage" property="dct:title" rel="dct:type">The Z-Box</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://imnotamember.github.io/opticalillusionvideos.html" property="cc:attributionName" rel="cc:attributionURL">Joshua Zosky</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://imnotamember.github.io/opticalillusionvideos.html" rel="dct:source">http://imnotamember.github.io/opticalillusionvideos.html</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://imnotamember.github.io/opticalillusionvideos.html" rel="cc:morePermissions">http://imnotamember.github.io/opticalillusionvideos.html</a>.
 </section>
+
+[poster1]: Z-Box-Presentation/Z-Box%20Poster%20-%20Psychonomics.png "Psychonomics 2019"
+[poster2]: Z-Box-Presentation/Z-Box%20Poster%20-%20VSS.png "VSS 2019"
