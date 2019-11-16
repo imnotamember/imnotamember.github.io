@@ -5,7 +5,11 @@ permalink: "/Z-Box-Presentation/"
 subtitle: "Welcome to the resources page for presentations on the Z-Box Illusion"
 icon: fa-book
 order: 5
-video_demo: Z-Box-Illusion
+video_demo: yxlzs4phgv829cf087hbirfc7nhdboyb
+video_orb_100: am0dn6jdhgwpdclmrtlfjfkdjs24stwc
+video_orb_box_100_congruent: qzk0lsgvhs5bnrf3i7a6hid5iphek66r
+video_orb_box_100_incongruent: ivdqtdk9y59me36kmo8llw1tj7ccr6y8
+video_orb_box_100_incongruent_flip_congruent: gsjvvnuac3rgac5dxvcjzwp1mn9xql4n 
 ---
 
 # Z-Box-Presentation
@@ -30,11 +34,17 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 ----
 ****
 
+If videos don't load, click the title to view on a new page.
+
+----
+****
+
 #### Test yourself!
 Can you determine the orb's direction? 
 Based on your perception of which side is the orb's front, each presentation could be spinning either left or right. For presentations with the box, is this motion the same (congruent) between objects or different (incongruent)?
 
 [Z-Box Illusion Self-Test Demo](https://unl.box.com/v/Z-Box-Illusion)
+
 {% include box_video_player.html id=page.video_demo %}
 
 ----
@@ -42,26 +52,29 @@ Based on your perception of which side is the orb's front, each presentation cou
 
 #### Other sample videos
 
-[Orb - 100 Particles - Leftward Motion](https://unl.box.com/s/i5bh78ymu636m9yykkzwgxtqjzfyg8j8)
+[Orb - 100 Particles - Leftward Motion](https://unl.box.com/s/am0dn6jdhgwpdclmrtlfjfkdjs24stwc)
 
-[Orb & Box - 100 Particles - Congruent Motion](https://unl.box.com/s/z76mk9q4vpwdtzzqniy55nkljtlgpaok)
+{% include box_video_player.html id=page.video_orb_100 %}
 
-[Orb & Box - 100 Particles - Incongruent Motion](https://unl.box.com/s/vuy7kavrswtedgb1bpmju77bpeuxjrdv)
+[Orb & Box - 100 Particles - Congruent Motion](https://unl.box.com/s/qzk0lsgvhs5bnrf3i7a6hid5iphek66r)
 
-[Orb & Box - 100 Particles - Incongruent Motion - Flip - Congruent Motion](https://unl.box.com/s/8224wsoqsbddmklnt61r2grep6gjkjtd)
+{% include box_video_player.html id=page.video_orb_box_100_congruent %}
 
-[More demos of the Z-Box Illusion](http://imnotamember.github.io/opticalillusionvideos.html)
+[Orb & Box - 100 Particles - Incongruent Motion](https://unl.box.com/s/ivdqtdk9y59me36kmo8llw1tj7ccr6y8)
+
+{% include box_video_player.html id=page.video_orb_box_100_incongruent %}
+
+[Orb & Box - 100 Particles - Incongruent Motion - Flip - Congruent Motion](https://unl.box.com/s/gsjvvnuac3rgac5dxvcjzwp1mn9xql4n)
+
+{% include box_video_player.html id=page.video_orb_box_100_incongruent_flip_congruent %}
+
+[More demos of the Z-Box Illusion](https://imnotamember.github.io/z-box_videos)
 
 
 #### [Home](http://imnotamember.github.io/)
 
 If you have questions, don't hesitate to contact me at <joshua.e.zosky@gmail.com>.
 Thanks!
-
-----
-****
-
-If videos don't load, click the title to view on a new page.
 
 ----
 ****
