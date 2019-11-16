@@ -35,12 +35,10 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 
 ----
 ****
-
 If videos don't load, click the title to view on a new page.
 
 ----
 ****
-
 #### Test yourself!
 Can you determine the orb's direction? 
 Based on your perception of which side is the orb's front, each presentation could be spinning either left or right. For presentations with the box, is this motion the same (congruent) between objects or different (incongruent)?
@@ -51,7 +49,6 @@ Based on your perception of which side is the orb's front, each presentation cou
 
 ----
 ****
-
 #### Other sample videos
 
 [Orb - 100 Particles - Leftward Motion](https://unl.box.com/s/am0dn6jdhgwpdclmrtlfjfkdjs24stwc)
@@ -72,15 +69,13 @@ Based on your perception of which side is the orb's front, each presentation cou
 
 [More demos of the Z-Box Illusion](https://imnotamember.github.io/z-box_videos)
 
-
-#### [Home](http://imnotamember.github.io/)
-
-If you have questions, don't hesitate to contact me at <joshua.e.zosky@gmail.com>.
-Thanks!
+----
+****
+##### If you have questions, don't hesitate to contact me at <joshua.e.zosky@gmail.com>.
+##### Thanks!
 
 ----
 ****
-
 <section id="license">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
