@@ -84,5 +84,5 @@ Based on your perception of which side is the orb's front, each presentation cou
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/MovingImage" property="dct:title" rel="dct:type">The Z-Box</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://imnotamember.github.io/opticalillusionvideos.html" property="cc:attributionName" rel="cc:attributionURL">Joshua Zosky</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://imnotamember.github.io/opticalillusionvideos.html" rel="dct:source">http://imnotamember.github.io/opticalillusionvideos.html</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://imnotamember.github.io/opticalillusionvideos.html" rel="cc:morePermissions">http://imnotamember.github.io/opticalillusionvideos.html</a>.
 </section>
 
-[poster1]: assets/images/Z-Box%20Poster%20-%20Psychonomics.jpg "Psychonomics 2019"
-[poster2]: assets/images/Z-Box%20Poster%20-%20VSS.jpg "VSS 2019"
+[poster1]: Z-Box%20Poster%20-%20Psychonomics.jpg "Psychonomics 2019"
+[poster2]: Z-Box%20Poster%20-%20VSS.jpg "VSS 2019"
