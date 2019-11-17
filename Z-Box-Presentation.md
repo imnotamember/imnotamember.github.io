@@ -44,7 +44,6 @@ Can you determine the orb's direction?
 Based on your perception of which side is the orb's front, each presentation could be spinning either left or right. For presentations with the box, is this motion the same (congruent) between objects or different (incongruent)?
 
 [Z-Box Illusion Self-Test Demo](https://unl.box.com/v/Z-Box-Illusion)
-
 {% include box_video_player.html id=page.video_demo %}
 
 ----
@@ -52,19 +51,15 @@ Based on your perception of which side is the orb's front, each presentation cou
 #### Other sample videos
 
 [Orb - 100 Particles - Leftward Motion](https://unl.box.com/s/am0dn6jdhgwpdclmrtlfjfkdjs24stwc)
-
 {% include box_video_player.html id=page.video_orb_100 %}
 
 [Orb & Box - 100 Particles - Congruent Motion](https://unl.box.com/s/qzk0lsgvhs5bnrf3i7a6hid5iphek66r)
-
 {% include box_video_player.html id=page.video_orb_box_100_congruent %}
 
 [Orb & Box - 100 Particles - Incongruent Motion](https://unl.box.com/s/ivdqtdk9y59me36kmo8llw1tj7ccr6y8)
-
 {% include box_video_player.html id=page.video_orb_box_100_incongruent %}
 
 [Orb & Box - 100 Particles - Incongruent Motion - Flip - Congruent Motion](https://unl.box.com/s/gsjvvnuac3rgac5dxvcjzwp1mn9xql4n)
-
 {% include box_video_player.html id=page.video_orb_box_100_incongruent_flip_congruent %}
 
 [More demos of the Z-Box Illusion](https://imnotamember.github.io/z-box_videos)
