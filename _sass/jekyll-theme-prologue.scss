@@ -70,7 +70,10 @@
 		&.is-loading * {
 			@include vendor('transition', 'none !important');
 			@include vendor('animation', 'none !important');
-		}
+        embed-container {
+            min-height: 400px;
+        }
+        }
 	}
 
 	input, textarea, select {
@@ -177,9 +180,6 @@
 			padding: 0.75em 1em;
 			overflow-x: auto;
 		}
-        embed-container {
-            min-height: 400px;
-        }
 	}
 
 	blockquote {
