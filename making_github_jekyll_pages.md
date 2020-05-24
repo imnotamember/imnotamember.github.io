@@ -17,7 +17,7 @@ order: 6
         1. Mac installation:
             * Enter these commands into terminal:
             
-            ```BASH
+            ```shell script
             # First, you need to install the command-line tools to be able to compile native extensions, open a terminal and run:
             xcode-select --install
             
@@ -42,7 +42,7 @@ order: 6
         1. Linux (Ubuntu) installation:
             * Enter these commands into terminal:
             
-            ```BASH
+            ```shell script
             echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
             echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
             echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
