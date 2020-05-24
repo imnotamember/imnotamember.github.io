@@ -18,36 +18,36 @@ order: 6
             * Enter these commands into terminal:
             
             ```shell script
-           # First, you need to install the command-line tools to be able to compile native extensions, open a terminal and run:
-           xcode-select --install
-           
-           # Install Homebrew
-           /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-           # Install Ruby via Homebrew
-           brew install ruby
-           
-           # Add the brew ruby path to your shell config
-           export PATH=/usr/local/opt/ruby/bin:$PATH
-           
-           # Check to make sure everything installed correctly
-           which ruby
-           # Should see something like:
-           # /usr/local/opt/ruby/bin/ruby
-           
-           ruby -v
-           # Should see something like:
-           # ruby 2.6.2p47 (2019-03-13 revision 67232) [x86_64-darwin18]
+            # First, you need to install the command-line tools to be able to compile native extensions, open a terminal and run:
+            xcode-select --install
+            
+            # Install Homebrew
+            /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+            # Install Ruby via Homebrew
+            brew install ruby
+
+            # Add the brew ruby path to your shell config
+            export PATH=/usr/local/opt/ruby/bin:$PATH
+
+            # Check to make sure everything installed correctly
+            which ruby
+            # Should see something like:
+            # /usr/local/opt/ruby/bin/ruby
+
+            ruby -v
+            # Should see something like:
+            # ruby 2.6.2p47 (2019-03-13 revision 67232) [x86_64-darwin18]
             ```
            
         1. Linux (Ubuntu) installation:
             * Enter these commands into terminal:
             
-           ```shell script
+            ```shell script
             echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
             echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
             echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
             source ~/.bashrc
-           ```
+            ```
            
 1. Install Jekyll
     1. Windows: in GitBash terminal (Press Windows-Key then search for `git-bash.exe`), 
