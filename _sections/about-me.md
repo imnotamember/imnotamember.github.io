@@ -11,4 +11,4 @@ It also will supply information on my work as a graduate student in the PhD prog
 
 If you have questions/ideas/collaborations, feel free to email me at [joshua.e.zosky@gmail.com](mailto:joshua.e.zosky@gmail.com) or fill out the form below in [Contact](#contact). 
 
-[about_me_logo]: assets/images/pic08.jpg "What do you want to know?"
+[about_me_logo]: assets/images/Josh&Maura-best_friends.jpg "What do you want to know?"

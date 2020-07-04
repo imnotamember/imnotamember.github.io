@@ -14,7 +14,7 @@ At minimum it's tolerable. Click and explore.
   <div class="4u 12u$(mobile)">
     <div class="item">
         <a href="https://github.com/imnotamember/python-egi" class="image fit">
-        <img src="assets/images/pic02.jpg" alt="python-egi">
+        <img src="assets/images/eeg_lab_space.jpg" alt="python-egi">
       <header><h3>PyNetstation Python Module</h3></header></a>
     </div>
     <div class="item">
