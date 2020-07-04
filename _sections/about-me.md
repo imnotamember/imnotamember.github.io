@@ -4,7 +4,7 @@ icon: fa-user
 order: 3
 ---
 
-![About Me Logo][about_me_logo]{:class="img-responsive"}
+![About Me Logo][about_me_logo]{:class="image fit"}
 This is a place for me to store and document my progress through the wonderful world of programming and scientific research.
 
 It also will supply information on my work as a graduate student in the PhD program at the University of Nebraska -- Lincoln. I am in the Psychology-Neuroscience and Behavior program.
