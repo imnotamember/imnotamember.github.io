@@ -19,7 +19,7 @@ At minimum it's tolerable. Click and explore.
     </div>
     <div class="item">
       <a href="z-box_videos" class="image fit">
-        <img src="assets/images/pic03.jpg" alt="z-box illusion" />
+        <img src="assets/images/Z-Box_Illusion.png" alt="z-box illusion" />
       </a>
       <header><h3>The Z-Box Illusion
     </h3></header></div>
@@ -27,13 +27,13 @@ At minimum it's tolerable. Click and explore.
   <div class="4u 12u$(mobile)">
     <div class="item">
       <a href="posters" class="image fit">
-        <img src="assets/images/pic04.jpg" alt="posters" />
+        <img src="assets/images/Z-Box_Poster.Psychonomics.2019." alt="posters" />
       </a>
       <header><h3>Poster Presentations
     </h3></header></div>
     <div class="item">
       <a href="http://imnotamember.github.io/Programming-Workshop/" class="image fit">
-        <img src="assets/images/pic05.jpg" alt="asdf" />
+        <img src="assets/images/Programming_workshop.png" alt="asdf" />
       </a>
       <header><h3>Intro to Programming in Psychology - workshop materials
     </h3></header></div>
