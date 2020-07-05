@@ -41,7 +41,7 @@ At minimum it's tolerable. Click and explore.
   <div class="4u 12u$(mobile)">
     <div class="item">
       <a href="making_github_jekyll_pages" class="image fit">
-        <img src="assets/images/pic06.jpg" alt="Dolor Penatibus" />
+        <img src="assets/images/my_website.png" alt="Dolor Penatibus" />
       </a>
       <header>
         <h3>Developing a website with GitHub & Jekyll</h3>
