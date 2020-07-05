@@ -27,7 +27,7 @@ At minimum it's tolerable. Click and explore.
   <div class="4u 12u$(mobile)">
     <div class="item">
       <a href="posters" class="image fit">
-        <img src="assets/images/Z-Box_Poster.Psychonomics.2019." alt="posters" />
+        <img src="assets/images/Z-Box_Poster.Psychonomics.2019.png" alt="posters" />
       </a>
       <header><h3>Poster Presentations
     </h3></header></div>
