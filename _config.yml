@@ -37,7 +37,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 author: Joshua Zosky
 email: joshua.e.zosky@gmail.com
 avatar_bg: assets/images/avatar.jpg
-avatar_fg: assets/images/drBoxhead.png
+avatar_fg: assets/images/Warping-Rectangle.gif
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "imnotamember.github.io" # the subpath of your site, e.g. /blog
