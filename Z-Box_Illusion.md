@@ -2,6 +2,8 @@
 layout: "page"
 title: "Z-Box Illusion"
 subtitle: "Welcome to the home page of the Z-Box Illusion"
+cover-photo: "assets/images/Z-Box_Illusion.png"
+cover-photo-alt: "Sample image of the Z-Box Illusion"
 icon: fa-book
 order: 4
 box_video_1: xwo1nn8fqsy1dvbozvrozy5cizs3rxu4
@@ -38,7 +40,7 @@ If you have any ideas or would like to learn more, you can contact me at: <joshu
 ----
 ****
 
-<section id="presentations">
+<section id="presentations"></section>
 
 ## Z-Box Presentations
 
@@ -100,7 +102,7 @@ For presentations with the box, is this motion the same (congruent) between obje
 ----
 ****
 
-<section id="demos">
+<section id="demos"></section>
 
 Below are other demos of The Z-Box Illusion.
 
@@ -112,8 +114,6 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 
 #### [Wu-Tang Clan in the Z-Box](https://unl.box.com/s/tabkmtl5cty5bmgtv5u5i04e8per0450)
 {% include box_video_player.html id=page.box_video_3 %}
-
-</section>
 
 ----
 ****
