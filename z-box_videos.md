@@ -3,7 +3,7 @@ title: Z-Box Illusion
 subtitle: Welcome to the home page of the Z-Box Illusion 
 layout: "page"
 icon: fa-book
-order: 4
+order: 6
 box_video_1: xwo1nn8fqsy1dvbozvrozy5cizs3rxu4
 box_video_3: tabkmtl5cty5bmgtv5u5i04e8per0450
 ---

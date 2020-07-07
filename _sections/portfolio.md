@@ -19,11 +19,11 @@ Okay. At minimum, it's tolerable. Click and explore.
       <header><h3>PyNetstation Python Module</h3></header></a>
     </div>
     <div class="item">
-      <a href="z-box_videos" class="image fit">
+      <a href="Z-Box_Illusion" class="image fit">
         <img src="assets/images/Z-Box_Illusion.png" alt="z-box illusion" />
       </a>
-      <header><h3>The Z-Box Illusion
-    </h3></header></div>
+      <header><h3>The Z-Box Illusion</h3></header>
+    </div>
   </div>
   <div class="4u 12u$(mobile)">
     <div class="item">
