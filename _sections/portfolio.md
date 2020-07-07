@@ -9,7 +9,7 @@ order: 2
 Some of this work is `code`, some is *visual*, and all of it is awesome.
 
 Okay. At minimum, it's tolerable. Click and explore.
-<p><a href="#contact`" class="button scrolly">Send me a message</a></p>
+<p><a href="#contact" class="button scrolly">Send me a message</a></p>
 
 <div class="row">
   <div class="4u 12u$(mobile)">
