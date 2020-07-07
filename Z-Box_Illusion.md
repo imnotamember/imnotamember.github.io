@@ -15,12 +15,10 @@ video_orb_box_100_incongruent: ivdqtdk9y59me36kmo8llw1tj7ccr6y8
 video_orb_box_100_incongruent_flip_congruent: gsjvvnuac3rgac5dxvcjzwp1mn9xql4n 
 ---
 
-# The Z-Box Illusion
-
 <a href="#presentations" class="button scrolly">Presentations</a>
 <a href="#demos" class="button scrolly">Other Demos</a>
 
-Below you'll find more information on the Z-Box Illusion.
+The Z-Box Illusion is the observation that when an ambiguous (bistable) object is rotating, it's direction of motion can be influenced by a secondary object (typically a wireframe-box) surrounding the primary object. The illusion is so powerful it seems to work under a variety of circumstances. This illusion highlights the fragile nature of our everyday perception (things aren't always what they appear to be).
 
 I discovered this phenomenon while demo'ing some 3D graphics for research studies in 2016. Understanding and researching the illusion was facilitated with help from my PhD advisor--Mike Dodd--and many experts in the fields of cognition and vision sciences.
 
@@ -55,11 +53,11 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 
 #### Psychonomics Annual Meeting - November, 2019
 
-[![poster 1][poster1]](https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20Psychonomics.pdf)
+[![poster 1][poster1]](https://imnotamember.github.io/assets/documents/Z-Box_Poster.Psychonomics.2019.pdf)
 
 #### Vision Sciences Society Annual Meeting - May, 2019
 
-[![poster 2][poster2]](https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20VSS.pdf)
+[![poster 2][poster2]](https://imnotamember.github.io/assets/documents/Z-Box_Poster.VSS.2019.pdf)
 
 ----
 
@@ -70,16 +68,19 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 #### [Illusion of the Year Submission](https://unl.box.com/s/xwo1nn8fqsy1dvbozvrozy5cizs3rxu4)
 {% include box_video_player.html id=page.box_video_1 %}
 
-#### Test Yourself!
+----
 
-#####Can you determine the orb's direction?
+#### Test Yourself!
+##### Can you determine the orb's direction?
+
+[Z-Box Illusion Self-Test Demo](https://unl.box.com/v/Z-Box-Illusion)
+{% include box_video_player.html id=page.video_demo %}
 
 The orb can be perceived as spinning either left or right based on which side you see as the orb's front face.
 
 For presentations with the box, is this motion the same (congruent) between objects or different (incongruent)?
 
-[Z-Box Illusion Self-Test Demo](https://unl.box.com/v/Z-Box-Illusion)
-{% include box_video_player.html id=page.video_demo %}
+----
 
 #### VSS 2017 Demo-Night Videos
 
@@ -97,12 +98,12 @@ For presentations with the box, is this motion the same (congruent) between obje
 
 [More demos of the Z-Box Illusion](https://imnotamember.github.io/z-box_videos)
 
-</section>
-
 ----
 ****
 
 <section id="demos"></section>
+
+## Other Demos
 
 Below are other demos of The Z-Box Illusion.
 
@@ -116,6 +117,10 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 {% include box_video_player.html id=page.box_video_3 %}
 
 ----
+
+[More demos of the Z-Box Illusion](https://imnotamember.github.io/z-box_videos)
+
+----
 ****
 
 <section id="license">
@@ -126,5 +131,5 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/MovingImage" property="dct:title" rel="dct:type">The Z-Box</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://imnotamember.github.io/opticalillusionvideos.html" property="cc:attributionName" rel="cc:attributionURL">Joshua Zosky</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://imnotamember.github.io/opticalillusionvideos.html" rel="dct:source">http://imnotamember.github.io/opticalillusionvideos.html</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://imnotamember.github.io/opticalillusionvideos.html" rel="cc:morePermissions">http://imnotamember.github.io/opticalillusionvideos.html</a>.
 </section>
 
-[poster1]: Z-Box%20Poster%20-%20Psychonomics.jpg "Psychonomics 2019"
-[poster2]: Z-Box%20Poster%20-%20VSS.jpg "VSS 2019"
+[poster1]: assets/images/Z-Box_Poster.Psychonomics.2019.png "Psychonomics 2019"
+[poster2]: assets/images/Z-Box_Poster.VSS.2019.png "VSS 2019"
