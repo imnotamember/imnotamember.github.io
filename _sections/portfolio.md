@@ -50,7 +50,7 @@ Okay. At minimum, it's tolerable. Click and explore.
     </div>
     <div class="item">
       <a href="http://imnotamember.github.io/FaceReader-PythonBindings/" class="image fit">
-        <img src="assets/images/pic07.jpg" alt="Orci Convallis" />
+        <img src="assets/images/FaceReader-Python.jpg" alt="Orci Convallis" />
           <header>
               <h3>FaceReader bindings for Python</h3>
           </header>
