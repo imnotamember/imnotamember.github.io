@@ -3,7 +3,7 @@ title: Posters/Presentations
 subtitle: My presentations from over the years 
 layout: "page"
 icon: fa-book
-order: 3
+order: 10
 ---
 
 # Graphic Design Resources for presentations

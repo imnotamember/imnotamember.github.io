@@ -5,7 +5,7 @@ subtitle: "Welcome to the home page of the Z-Box Illusion"
 cover-photo: "assets/images/Z-Box_Illusion.png"
 cover-photo-alt: "Sample image of the Z-Box Illusion"
 icon: fa-book
-order: 4
+order: 20
 box_video_1: xwo1nn8fqsy1dvbozvrozy5cizs3rxu4
 box_video_3: tabkmtl5cty5bmgtv5u5i04e8per0450
 video_demo: yxlzs4phgv829cf087hbirfc7nhdboyb
