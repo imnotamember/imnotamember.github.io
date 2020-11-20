@@ -11,7 +11,7 @@ order: 30
 # Validity Check
 A simple app to examine attention checks in survey data.
 
-Download: [[link]<i class="fas fa-download"></i>](https://github.com/imnotamember/ValidityCheck/releases) 
+Download: [<i class="fas fa-download" alt="Download link"></i>](https://github.com/imnotamember/ValidityCheck/releases) 
 
 ## How to use Validity Check
 Validity Check was designed for convenient access to attention checking questions in survey data. In order to gain insights into your attention checks:
