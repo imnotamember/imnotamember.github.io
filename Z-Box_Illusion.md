@@ -6,7 +6,7 @@ cover-photo: "assets/images/Z-Box_Illusion.png"
 cover-photo-alt: "Sample image of the Z-Box Illusion"
 icon: fa-book
 order: 20
-box_video_1: xwo1nn8fqsy1dvbozvrozy5cizs3rxu4
+ioty_video: "Documents/Unsorted/Unsorted%20Stimuli/Orb%20illusion/The%20Z-Box%20Illusion.mp4?App=OneDriveWebVideo"
 box_video_3: tabkmtl5cty5bmgtv5u5i04e8per0450
 video_demo: yxlzs4phgv829cf087hbirfc7nhdboyb
 video_orb_100: am0dn6jdhgwpdclmrtlfjfkdjs24stwc
@@ -66,7 +66,7 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 *If videos don't load, click the title to view on a new page.*
 
 #### [Illusion of the Year Submission](https://unl.box.com/s/xwo1nn8fqsy1dvbozvrozy5cizs3rxu4)
-{% include box_video_player.html id=page.box_video_1 %}
+{% include box_video_player.html id=page.ioty_video %}
 
 ----
 
@@ -85,7 +85,7 @@ For presentations with the box, is this motion the same (congruent) between obje
 #### VSS 2017 Demo-Night Videos
 
 [Orb - 100 Particles - Leftward Motion](https://unl.box.com/s/am0dn6jdhgwpdclmrtlfjfkdjs24stwc)
-{% include box_video_player.html id=page.video_orb_100 %}
+{% include onedrive_video_player.html id=page.video_orb_100 %}
 
 [Orb & Box - 100 Particles - Congruent Motion](https://unl.box.com/s/qzk0lsgvhs5bnrf3i7a6hid5iphek66r)
 {% include box_video_player.html id=page.video_orb_box_100_congruent %}
