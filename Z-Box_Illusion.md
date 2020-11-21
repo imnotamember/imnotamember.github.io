@@ -66,7 +66,7 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 *If videos don't load, click the title to view on a new page.*
 
 #### [Illusion of the Year Submission](https://unl.box.com/s/xwo1nn8fqsy1dvbozvrozy5cizs3rxu4)
-{% include box_video_player.html id=page.ioty_video %}
+{% include onedrive_video_player.html id=page.ioty_video %}
 
 ----
 
