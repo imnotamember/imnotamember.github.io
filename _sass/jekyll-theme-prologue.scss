@@ -70,7 +70,10 @@
 		&.is-loading * {
 			@include vendor('transition', 'none !important');
 			@include vendor('animation', 'none !important');
-		}
+        embed-container {
+            min-height: 400px;
+        }
+        }
 	}
 
 	input, textarea, select {
@@ -252,8 +255,30 @@
 
 			img {
 				width: 48px;
-				height: 48px;
+				height: 48px
 			}
+		}
+
+		&avatarOverlay {
+			position: relative;
+			top: 0;
+			left: 0;
+			img {
+				width: 48px;
+				height: 48px
+			}
+		}
+		.BG{
+			position: relative;
+			top: 0;
+			left: 0;
+			z-index: 1
+		}
+		.FG{
+			position: absolute;
+			top: 0;
+			left: 0;
+			z-index: 2
 		}
 
 		&.fit {
@@ -637,6 +662,11 @@
 			}
 		}
 	}
+
+/* Embed */
+    #embed-container {
+        min-height: 400px;
+    }
 
 /* Main */
 
